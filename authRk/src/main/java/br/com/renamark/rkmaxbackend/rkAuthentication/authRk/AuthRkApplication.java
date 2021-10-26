@@ -1,4 +1,4 @@
-package br.com.renamark.rkmaxbackend.rkAuthentication.authRk;
+package br.com.renamark.rkmaxbackend.rkauthentication.authrk;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
